@@ -3,5 +3,5 @@
 <p align = "center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alves-front&langs_count=10&layout=compact&theme=tokyonight&bg_color=#211D47%22" /></p>
 
 <p align="center"  style="color:#ffffff">
-  <a href="https://matheus-alves-portfolio.vercel.app/" style="color:#ffffff">Visit My Portfolio</a>
+  <a target="_blank" href="https://matheus-alves-portfolio.vercel.app/" style="color:#ffffff">Visit My Portfolio</a>
 </p>
